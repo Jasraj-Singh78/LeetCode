@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
