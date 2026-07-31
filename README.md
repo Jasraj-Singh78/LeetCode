@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
