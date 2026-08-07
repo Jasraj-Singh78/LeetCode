@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0283-move-zeroes) |
+| [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0724-find-pivot-index) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -103,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
