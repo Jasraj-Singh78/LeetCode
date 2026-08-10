@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -106,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
