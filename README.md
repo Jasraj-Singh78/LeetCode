@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
