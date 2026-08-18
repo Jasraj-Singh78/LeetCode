@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0067-add-binary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
