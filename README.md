@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
 ## Data Stream
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
