@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0054-spiral-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0175-combine-two-tables) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
