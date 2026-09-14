@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Array
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
 | [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Stack
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -250,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
