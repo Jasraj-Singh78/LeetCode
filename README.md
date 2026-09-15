@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0860-lemonade-change) |
 ## Bucket Sort
 |  |
 | ------- |
