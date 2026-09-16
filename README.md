@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0055-jump-game) |
