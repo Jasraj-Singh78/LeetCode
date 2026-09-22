@@ -10,12 +10,17 @@ class Solution {
 
             if (map1.containsKey(a) && map1.get(a) != b)
                 return false;
+                else{
+                    map1.put(a, b);
+                }
 
             if (map2.containsKey(b) && map2.get(b) != a)
                 return false;
-
-            map1.put(a, b);
-            map2.put(b, a);
+            else{
+                map2.put(b, a);
+            }
+            
+            
         }
 
         return true;
