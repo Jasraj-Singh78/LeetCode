@@ -23,4 +23,6 @@ class Solution {
         private boolean isVowel(char c){
             return "aAeEiIoOuU".indexOf(c)!=-1;
         }
+        // return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||  or use this both return true or false
+        //        c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
     }
