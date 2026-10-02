@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
