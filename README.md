@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0784-letter-case-permutation](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
