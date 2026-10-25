@@ -99,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1480-running-sum-of-1d-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Jasraj-Singh78/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
