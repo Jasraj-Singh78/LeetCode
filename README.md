@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0455-assign-cookies) |
+| [0518-coin-change-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0518-coin-change-ii) |
 | [0622-design-circular-queue](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0518-coin-change-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -357,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0051-n-queens) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
