@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0518-coin-change-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -362,9 +365,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
