@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jasraj-Singh78/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
